@@ -8,6 +8,7 @@ class FirstPage extends StatelessWidget {
   FirstPage({super.key});
 
   final List<String> names = [
+    "Angel",
     "Maicol",
     "Matos",
     "Smith",
@@ -214,6 +215,9 @@ class FirstPage extends StatelessWidget {
     );
   }
 }
+
+
+//Funciones utilizadas mas arriba en este archivo
 
 class QuickSendRowFormat extends StatelessWidget {
 
