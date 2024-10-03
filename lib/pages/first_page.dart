@@ -9,7 +9,9 @@ class FirstPage extends StatelessWidget {
 
   final List<String> names = [
     "Angel",
-    "Maicol",
+    "Pfizer",
+    "Leo",
+    "Ramon",
     "Maira",
     "Maigua",
     "Mariangel",
