@@ -8,14 +8,21 @@ class FirstPage extends StatelessWidget {
   FirstPage({super.key});
 
   final List<String> names = [
-    "1",
-    "2"
+    "Angel",
+    "Maicol",
+    "Maira",
+    "Maigua",
+    "Mariangel",
+    "Richard",
+    "Erika",
+    "Genesis",
+    "Gerardo",
   ];
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: const Color(0xFF0E193D),
+      backgroundColor: Color.fromARGB(255, 61, 14, 14),
       appBar: AppBar(
         foregroundColor: Colors.white,
         backgroundColor: const Color (0xFF0E193D),
