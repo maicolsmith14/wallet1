@@ -8,18 +8,8 @@ class FirstPage extends StatelessWidget {
   FirstPage({super.key});
 
   final List<String> names = [
-    "Angel",
-    "Maicol",
-    "Kevin",
-    "Joel",
-    "Andres",
-    "Maira",
-    "Maigua",
-    "Mariangel",
-    "Richard",
-    "Erika",
-    "Genesis",
-    "Gerardo",
+    "1",
+    "2"
   ];
 
   @override
